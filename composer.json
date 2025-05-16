@@ -1,0 +1,23 @@
+{
+  "name": "deinname/mein-theme",
+  "description": "Ein Beispiel-Theme für ein beliebiges CMS",
+  "type": "lensfolio-theme",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Christian Heinisch",
+      "email": "dein@email.de"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "DeinNamespace\\MeinTheme\\": "src/"
+    }
+  },
+  "extra": {
+    "installer-name": "mein-theme"
+  }
+}
