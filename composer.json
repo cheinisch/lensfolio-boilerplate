@@ -1,5 +1,5 @@
 {
-  "name": "deinname/mein-theme",
+  "name": "cheinisch/boilerplate",
   "description": "Ein Beispiel-Theme für ein beliebiges CMS",
   "type": "lensfolio-theme",
   "license": "MIT",
@@ -18,6 +18,6 @@
     }
   },
   "extra": {
-    "installer-name": "mein-theme"
+    "installer-name": "boilerplate"
   }
 }
